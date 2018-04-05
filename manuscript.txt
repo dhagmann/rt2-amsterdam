@@ -2,6 +2,7 @@
 
 ## Introduction
 This paper contributes to political science, economics, and everything else. It explains the universe.
+Turns out, the universe is pretty boring.
 
 ## Data
 The data are all observations in the universe.
